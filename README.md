@@ -1,2 +1,2 @@
 # Java-WindowBuilder-Budget
-A budget app builded using Eclipse-SWT
+A budget app built using Eclipse-SWT
